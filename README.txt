@@ -1,0 +1,2 @@
+This repository contains data to support the scientific article "Electrochemically induced CO2 capture enabled by aqueous quinone flow chemistry."
+The manuscript for this work has been accepted for publication in ACS Energy Letters.
